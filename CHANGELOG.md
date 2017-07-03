@@ -1,3 +1,13 @@
+### 1.1.1
+
+#### Bugfixes
+
+* Fixed required error
+
+#### Features
+
+* Added clearOnCancel option
+
 ### 1.1.0
 
 #### Bugfixes
